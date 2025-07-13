@@ -90,7 +90,7 @@ Error generating stack: `+u.message+`
         `,children:[J.jsx("a",{href:"#",children:J.jsx("span",{className:` font-bold font-mono text-3xl \r
                         max-sm:ml-0 max-sm:pl-0\r
                         max-md:ml-0 max-md:pl-0 \r
-                        max-xl:ml-0 max-xl:pl-0`,children:"JoshB"})}),J.jsxs("nav",{children:[J.jsx(Fy,{}),J.jsxs("ul",{className:"flex gap-10 text-xl font-mono cursor-pointer max-sm:hidden px-5",children:[J.jsx("a",{className:"hover:text-primary",href:"#aboutme",children:J.jsx("li",{children:"About"})}),J.jsx("a",{className:"hover:text-primary",href:"#",children:J.jsx("li",{children:"Projects"})}),J.jsx("a",{className:"hover:text-primary",href:"#",children:J.jsx("li",{children:"Contacts"})})]})]})]})}),Py="/assets/profile-image-Dlan7mN8.jpg",l1=()=>J.jsx("div",{className:"container w-full max-h-screen my-20",children:J.jsxs("div",{className:`flex justify-between items-center\r
+                        max-xl:ml-0 max-xl:pl-0`,children:"JoshB"})}),J.jsxs("nav",{children:[J.jsx(Fy,{}),J.jsxs("ul",{className:"flex gap-10 text-xl font-mono cursor-pointer max-sm:hidden px-5",children:[J.jsx("a",{className:"hover:text-primary",href:"#aboutme",children:J.jsx("li",{children:"About"})}),J.jsx("a",{className:"hover:text-primary",href:"#",children:J.jsx("li",{children:"Projects"})}),J.jsx("a",{className:"hover:text-primary",href:"#",children:J.jsx("li",{children:"Contacts"})})]})]})]})}),Py="/ongoing-portfolio/assets/profile-image-Dlan7mN8.jpg",l1=()=>J.jsx("div",{className:"container w-full max-h-screen my-20",children:J.jsxs("div",{className:`flex justify-between items-center\r
                         max-sm:flex-col \r
                         max-md:flex-col\r
                         max-lg:flex-col \r
