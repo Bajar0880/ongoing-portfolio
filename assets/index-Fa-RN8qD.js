@@ -101,9 +101,9 @@ Error generating stack: `+u.message+`
                             max-md:items-center \r
                             max-lg:items-center \r
                             max-xl:items-center\r
-                            `,children:[C.jsxs("p",{className:`grid grid-cols-[auto_1fr] items-center gap-4 w-full\r
-                              max-sm:text-md\r
-                             `,children:["Hello ",C.jsx("hr",{className:"w-[440px] h-1 bg-[hsl(var(--line-color))] rounded-lg"})]}),C.jsx("span",{className:"text-[60px]",children:"I am Joshua Bajar"}),C.jsxs("p",{children:["I'm an aspiring ",C.jsx("span",{className:"text-primary",children:"Front-End Developer"})]})]}),C.jsx("img",{src:Py,className:"h-80 w-83 rounded-full max-sm:w-80 max-sm:h-80"})]})});function t1(){return C.jsxs(C.Fragment,{children:[C.jsx(Iy,{}),C.jsx(l1,{}),C.jsx("div",{className:`mt-200 mb-200
+                            `,children:[C.jsxs("p",{className:"grid grid-cols-[auto_1fr] items-center gap-4 w-full",children:["Hello ",C.jsx("hr",{className:`w-[440px] h-1 bg-[hsl(var(--line-color))] rounded-lg\r
+                            max-sm:w-[280px]\r
+                            `})]}),C.jsx("span",{className:"text-[60px]",children:"I am Joshua Bajar"}),C.jsxs("p",{children:["I'm an aspiring ",C.jsx("span",{className:"text-primary",children:"Front-End Developer"})]})]}),C.jsx("img",{src:Py,className:"h-80 w-83 rounded-full max-sm:w-80 max-sm:h-80"})]})});function t1(){return C.jsxs(C.Fragment,{children:[C.jsx(Iy,{}),C.jsx(l1,{}),C.jsx("div",{className:`mt-200 mb-200
         max-sm:mt-100
         max-md:mt-100
         max-lg:mt-100
